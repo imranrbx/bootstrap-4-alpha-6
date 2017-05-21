@@ -9,7 +9,7 @@ Twitter: https://twitter.com/itsm3leo
 
 Youtube: https://youtube.com/perfectwebsolutions
 
-you can see the migration of v3 of bootstrap to v4 here: v4-alpha.getbootstrap.com/migration
+you can see the migration of v3 of bootstrap to v4 here: http://v4-alpha.getbootstrap.com/migration
 
 
 
