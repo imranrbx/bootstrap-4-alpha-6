@@ -6138,8 +6138,8 @@ $(function() {
         f.resources.description = "Include Bootstrap CSS and JS files from Bootstrap CDN. Updating resources will add the latest version of Bootstrap CSS and JS to the page. If you have older or local version of Bootstrap linked to the page, remove the old CSS and JS links from the page.";
 
 
-        var notRequiredFiles = ["carousel.css", "cover.css", "dashboard.css", "grid.css", "jumbotron.css", "jumbotron-narrow.css", "justified-nav.css", "navbar.css", "new.css", "non-responsive.css", "offcanvas.css", "starter-template.css", "sticky-footer.css", "sticky-footer-navbar.css", "style.css", "theme.css", "offcanvas.js", "offcanvas.min.js"];
-        var templatesOrder = ["index.html", "starter-template.html", "dashboard.html", "jumbotron.html", "jumbotron-narrow.html", "justified-nav.html", "navbar.html", "non-responsive.html", "offcanvas.html", "grid.html", "sticky-footer.html", "sticky-footer-navbar.html", "theme.html", "carousel.html", "cover.html"];
+        var notRequiredFiles = ["carousel.css", "cover.css", "dashboard.css", "grid.css", "jumbotron.css", "jumbotron-narrow.css", "justified-nav.css", "navbar.css", "new.css", "album.css", "offcanvas.css", "starter-template.css", "sticky-footer.css", "sticky-footer-navbar.css", "style.css", "theme.css", "offcanvas.js", "offcanvas.min.js"];
+        var templatesOrder = ["index.html", "starter-template.html", "dashboard.html", "jumbotron.html", "jumbotron-narrow.html", "justified-nav.html", "navbar.html", "album.html", "offcanvas.html", "grid.html", "sticky-footer.html", "sticky-footer-navbar.html", "theme.html", "carousel.html", "cover.html"];
 
         //Register starting page template
         f.addTemplateProjectFromResourceFolder('template', null, 0, function (node) {
